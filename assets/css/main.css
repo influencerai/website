@@ -1,4 +1,4 @@
-@charset "UTF-8";
+G@charset "UTF-8";
 @import url(font-awesome.min.css);
 @import url("https://fonts.googleapis.com/css?family=Lobster|Open+Sans:300,400,600,700,800");
 
@@ -3632,7 +3632,7 @@
 			color: rgba(255, 255, 255, );
 			text-shadow: -2px -2px 0 rgba(0, 0, 0, 0.125);
 			text-transform: none;
-			background:rgba(0,0,0,0.3);
+			background:rgba(0,0,0,0.5);
 		}
 
 		#banner p {
